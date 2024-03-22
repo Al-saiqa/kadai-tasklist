@@ -3,12 +3,12 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <title>タスクリストボード</title>
+        <title>タスクボード</title>
     </head>
     <body>
         <div id="wrapper">
             <div id="header">
-                <h1>タスクリストボード アプリケーション</h1>
+                <h1>タスクボード アプリケーション</h1>
             </div>
             <div id="content">
                 ${param.content}
